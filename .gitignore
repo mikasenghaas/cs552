@@ -6,6 +6,17 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore zip files
+**/*.zip
+
+# Ignore data folders
+**/data
+
+# Ignore custom files
+**/IMDB Dataset.csv
+**/SimLex-999
+
+
 # Distribution / packaging
 .Python
 build/
