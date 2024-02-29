@@ -1,2 +1,11 @@
+# Python
 .DS_Store
 __pycache__
+
+# Data
+*.zip
+*.csv
+*.txt
+
+# Models
+*.pt
